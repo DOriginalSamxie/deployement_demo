@@ -6,7 +6,7 @@ function App() {
     <div className='App'>
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
-        Deployment is happening Here
+        Get ready for the next BIG THING
       </header>
     </div>
   )
